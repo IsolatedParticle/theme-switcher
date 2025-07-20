@@ -6,3 +6,10 @@ body{
    text-align: center;
    text-decoration: underline;
 }
+#but{
+   background-color: grey;
+}
+#count{
+   text-align: center;
+   color: wheat;
+}
