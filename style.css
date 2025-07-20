@@ -1,0 +1,8 @@
+body{
+   background-color: grey;   /* This is noice .. you know .. light mode pinch my eyes too hard .. */
+   color: whitesmoke; /* This is a cool name */
+}
+#firstHeader{
+   text-align: center;
+   text-decoration: underline;
+}
