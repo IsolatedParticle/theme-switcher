@@ -10,3 +10,4 @@ but.addEventListener('click', ()=>{
 })
 
 // I cant even view the site .. I gotta find a way to view it somehow .. Gonna Find A Way then we will see what to do ... 
+// Alright imma continue this next time .. . thanks for watchin .. hehe .. 
